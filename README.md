@@ -1,2 +1,2 @@
-# Taller de Programación (UBA) 2024
-Este es el repositorio oficial de curso "M73 13 Seminarios Optativos - Taller de Programación" para la Maestria y Especialización en Economia (UBA). Cualquier duda u error, contactarse a m.n.romero91@gmail.com
+# Big Data y Machine Learning (UBA) 2025
+Este es el repositorio oficial de curso "Big Data y Machine Learning" (1er Semestre - 2025) para Licenciatura en Economia (UBA). Cualquier duda u error, contactarse a m.n.romero91@gmail.com
